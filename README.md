@@ -30,3 +30,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,github" />
 </p>
 
+
+
+<img src="https://quote-api-meera.vercel.app/Fact"/>
