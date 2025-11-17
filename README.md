@@ -32,4 +32,5 @@
 
 
 
-<img src="https://quote-api-meera.vercel.app/Fact"/>
+<img src="https://meera-quote-api.vercel.app/" />
+
