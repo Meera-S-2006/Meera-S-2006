@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://envs.sh/V9M.jpeg" width="180" style="border-radius: 20px;" />
+  <img src= "https://avatars.githubusercontent.com/u/243485073?v=4" width="240"/>
 </p>
 
 <h1 align="center">🌸 Hey, I'm <strong>Meera</strong> 👋</h1>
@@ -31,8 +31,6 @@
 </p>
 
 
-## My Github Stats
-<img src="https://github-svg.vercel.app/api?username=Meera-S-2006" >
 
 ## Random Quote 
 <img src="https://meera-quote-api.vercel.app/" />
