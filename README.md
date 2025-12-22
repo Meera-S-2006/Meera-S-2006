@@ -6,7 +6,7 @@
 <h1 align="center">🌸 Hey, I'm <strong>Meera</strong> 👋</h1>
 
 <p align="center">
-  <i>18-year-old beginner coder from Bangalore, exploring the new things ✨</i>
+  <i>19-year-old beginner coder from Bangalore, exploring the new things ✨</i>
 </p>
 
 ---
