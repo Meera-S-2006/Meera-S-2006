@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "https://avatars.githubusercontent.com/u/243485073?v=4" width="240"/>
+  <img src= "https://iili.io/fLnYRnV.md.jpg" width="240"/>
 </p>
 
 <h1 align="center">🌸 Hey, I'm <strong>Meera</strong> 👋</h1>
